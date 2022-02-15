@@ -1,5 +1,6 @@
 ---
 title: test title
+description: hogehoge
 layout: default_
 ---
 
