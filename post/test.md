@@ -1,5 +1,6 @@
 ---
 title: test title
+layout: default
 ---
 
 ## heading
