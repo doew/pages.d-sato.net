@@ -8,3 +8,4 @@ github:
   is_project_page: false
 
 layouts_dir: _layout
+layout: default_
