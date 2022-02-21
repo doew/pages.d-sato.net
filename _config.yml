@@ -4,6 +4,8 @@ name: pages.d-sato.net
 description: doewのブログ
 url: https://pages.d-sato.net/
 
+future: true # JSTとUTCの違いか何かでうまくいかないので
+
 github:
   is_project_page: false
 
