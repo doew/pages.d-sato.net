@@ -11,7 +11,7 @@ This is the webpage owned by doew.
 headlines.
 #### Academic
 ##### University of Electro-Communications, Tokyo, Japan
-As a Student. Bachelor of Engineering. Studied about Natural Language Processing, Machine Learning and Human Word Glowing.
+As a Student. Bachelor of Engineering. Studied about Natural Language Processing, Machine Learning and Human Word Growing.
 ##### The Open University of Japan, Chiba, Japan
 As a Graduate Student. Studies about Natural Language Processing and Machine Learning.
 #### Job
