@@ -37,6 +37,5 @@ Had experiences on work at ruby, python, R, javascript, golang, php.
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
-  <li>
-    <a href="https://blog.d-sato.net/"> More previous post can availble at https://blog.d-sato.net/</a>
+  <a href="https://blog.d-sato.net/"> More previous post can availble at https://blog.d-sato.net/</a>
 </ul>
