@@ -4,7 +4,7 @@ layout: index_
 
 # pages.d-sato.net
 
-This is the webpage owned by doew.
+This is the webpage owned by doew([GitHub Profile](https://github.com/doew)).
 
 ## About doew
 ### History
