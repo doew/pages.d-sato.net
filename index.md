@@ -6,6 +6,10 @@ layout: index_
 
 This is the webpage owned by doew([GitHub Profile](https://github.com/doew)).
 
+#### 📦 or ☕ ?
+[Amazon.co.jp Wishlist 📦](https://www.amazon.co.jp/hz/wishlist/ls/3M8VLWXM5N3R3?ref_=wl_share)  
+[Buy me a coffee ☕](https://www.buymeacoffee.com/doew)
+
 ## About doew
 ### History
 headlines.
@@ -37,5 +41,5 @@ Had experiences on work at ruby, python, R, javascript, golang, php.
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
-  <a href="https://blog.d-sato.net/"> More previous post can availble at https://blog.d-sato.net/</a>
+  <a href="https://blog.d-sato.net/"> More previous post can available at https://blog.d-sato.net/</a>
 </ul>
